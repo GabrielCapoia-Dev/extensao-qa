@@ -50,6 +50,10 @@
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"Invalid credentials\" deve ser exibida.    |
 
+| **Evidências**                                      |
+| :-------------------------------------------------------------- |
+| Link: https://jam.dev/c/06d44ab9-499f-4e1a-98d8-b0beb76a73c5  |
+
 ---
 
 ### Caso de Teste 03: Tentativa de login com campos em branco.
@@ -72,3 +76,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
+| **Evidências**                                      |
+| :-------------------------------------------------------------- |
+| Link: https://jam.dev/c/f0f6f508-7303-490d-9378-21650a8c1e8f |
