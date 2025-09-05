@@ -77,3 +77,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+
+| **Evidências**                                                  |
+| :-------------------------------------------------------------- |
+| Link: https://jam.dev/c/38646ac8-f554-4e4c-8f5a-fd6fec9b4f6d    |
