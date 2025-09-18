@@ -72,3 +72,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+
+
+| **Evidencias**                                      |
+| :-------------------------------------------------------------- |
+| Video: https://jam.dev/c/2533abcc-3e93-44ae-b60a-e18246c6c950 |
